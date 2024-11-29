@@ -73,12 +73,3 @@ C | D | D
 You won 40 ৳.
 You won on lines: 2
 Current Balance: 120 ৳
-
-
-
-
-Contributing
-
-Contributions are welcome! Feel free to fork this repository and submit a pull request with improvements or additional features.
-
-Have fun spinning and winning! 🎉
