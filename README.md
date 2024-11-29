@@ -61,7 +61,7 @@ Utility Functions:
 
 
 Example Gameplay
-
+```bash
 What would you like to deposit? ৳ 100
 Enter the number of lines to bet on (1-3): 2
 What would you like to bet on each line? ৳ 10
@@ -73,6 +73,7 @@ C | D | D
 You won 40 ৳.
 You won on lines: 2
 Current Balance: 120 ৳
+
 
 
 
