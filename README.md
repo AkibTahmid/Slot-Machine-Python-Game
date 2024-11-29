@@ -24,14 +24,13 @@ A simple text-based slot machine game implemented in Python. This project allows
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/slot-machine-game.git
-   Navigate to the project directory:
 
 2. Navigate to the project directory:
-
+   ```bash
    cd slot-machine-game
 
 4. Run the game using Python:
-
+   ```bash
    python slot_machine.py
 
 5. Quit the game anytime by pressing q.
